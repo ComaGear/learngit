@@ -8,3 +8,4 @@ I commit a new line to feature1 branch, but it made automatic merge failed;
 I manual operating that two line.
 
 add merge with dev branch.
+I'm finally finsh learn git with understructure!
