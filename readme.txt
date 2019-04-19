@@ -9,3 +9,5 @@ I manual operating that two line.
 
 add merge with dev branch.
 I'm finally finsh learn git with understructure!
+
+this line I have commit in dev branch.
